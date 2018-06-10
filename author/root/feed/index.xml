@@ -9,8 +9,8 @@
 
 <channel>
 	<title>root &#8211; Born to be Wise</title>
-	<atom:link href="https://mattbag.github.io/author/root/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mattbag.github.io/</link>
+	<atom:link href="https://mattbag.github.io/folio2016/author/root/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mattbag.github.io/folio2016/</link>
 	<description>Proud to be a Designer</description>
 	<lastBuildDate>Sat, 28 Jan 2017 06:32:01 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,25 +19,25 @@
 	<generator>https://wordpress.org/?v=4.7.1</generator>
 
 <image>
-	<url>https://mattbag.github.io/wp-content/uploads/2016/01/cropped-face-invaders-copy-32x32.png</url>
+	<url>https://mattbag.github.io/folio2016/wp-content/uploads/2016/01/cropped-face-invaders-copy-32x32.png</url>
 	<title>root &#8211; Born to be Wise</title>
-	<link>https://mattbag.github.io/</link>
+	<link>https://mattbag.github.io/folio2016/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://mattbag.github.io/hello-world/</link>
-		<comments>https://mattbag.github.io/hello-world/#respond</comments>
+		<link>https://mattbag.github.io/folio2016/hello-world/</link>
+		<comments>https://mattbag.github.io/folio2016/hello-world/#respond</comments>
 		<pubDate>Sat, 25 Apr 2015 08:29:07 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https://mattbag.github.io/wordpress/?p=1</guid>
+		<guid isPermaLink="false">https://mattbag.github.io/folio2016/wordpress/?p=1</guid>
 		<description><![CDATA[I do stuff, I don&#8217;t write posts! Cheers!]]></description>
 				<content:encoded><![CDATA[<p>I do stuff, I don&#8217;t write posts! Cheers!</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://mattbag.github.io/hello-world/feed/</wfw:commentRss>
+			<wfw:commentRss>https://mattbag.github.io/folio2016/hello-world/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

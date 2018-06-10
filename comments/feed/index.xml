@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments for Born to be Wise</title>
-	<atom:link href="https://mattbag.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mattbag.github.io/</link>
+	<atom:link href="https://mattbag.github.io/folio2016/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mattbag.github.io/folio2016/</link>
 	<description>Proud to be a Designer</description>
 	<lastBuildDate>Sat, 28 Jan 2017 06:36:19 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>

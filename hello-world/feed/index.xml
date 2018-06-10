@@ -7,8 +7,8 @@
 	>
 <channel>
 	<title>Comments on: Hello world!</title>
-	<atom:link href="https://mattbag.github.io/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>https://mattbag.github.io/hello-world/</link>
+	<atom:link href="https://mattbag.github.io/folio2016/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mattbag.github.io/folio2016/hello-world/</link>
 	<description>Proud to be a Designer</description>
 	<lastBuildDate>Sat, 28 Jan 2017 06:36:32 +0000</lastBuildDate>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
